@@ -7,7 +7,6 @@
 
 <br/>
 
-<!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=Anuj779&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Anuj779?label=Followers&style=social" alt="GitHub Followers" />
@@ -16,7 +15,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## About Me
 
 ```python
 class AnujOzare:
@@ -28,10 +27,10 @@ class AnujOzare:
         self.languages   = ["Python", "SQL"]
         self.interests   = ["AI Research", "Practical ML Projects", "Data Science"]
         self.currently   = "Building intelligent systems with Python & ML"
-        self.goal        = "To contribute meaningful AI solutions to the world ðŸŒ"
+        self.goal        = "To contribute meaningful AI solutions to the world"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing ðŸš€")
+        print("Thanks for visiting! Let's connect and build something amazing!")
 
 me = AnujOzare()
 me.say_hi()
@@ -39,15 +38,15 @@ me.say_hi()
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Tools
+## Tech Stack & Tools
 
-### ðŸ’» Languages
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ðŸ¤– AI / ML / Data Science
+### AI / ML / Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -58,13 +57,13 @@ me.say_hi()
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### ðŸ—„ï¸ Databases
+### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### ðŸ”§ Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -76,7 +75,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -91,7 +90,7 @@ me.say_hi()
 
 ---
 
-## ðŸ† GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anuj779&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
@@ -99,7 +98,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“ˆ Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj779&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
@@ -107,29 +106,25 @@ me.say_hi()
 
 ---
 
-## ðŸŒ± Currently Learning
+## Currently Learning
 
-<div align="left">
-
-- ðŸ§  **Deep Learning** â€” Neural Networks, CNNs, RNNs, Transformers
-- ðŸ¤– **Advanced AI** â€” LLMs, Prompt Engineering, AI Agents
-- ðŸ“Š **Data Science** â€” Feature Engineering, Model Optimization
-- ðŸ—„ï¸ **Advanced SQL** â€” Query Optimization, Database Design
-
-</div>
+- **Deep Learning** — Neural Networks, CNNs, RNNs, Transformers
+- **Advanced AI** — LLMs, Prompt Engineering, AI Agents
+- **Data Science** — Feature Engineering, Model Optimization
+- **Advanced SQL** — Query Optimization, Database Design
 
 ---
 
-## ðŸ’¡ What I'm Working On
+## What I'm Working On
 
-- ðŸ”­ Building **practical AI/ML projects** from scratch
-- ðŸ§ª Experimenting with **deep learning models** using Python
-- ðŸ“š Strengthening my **Data Science** foundation
-- ðŸŒ Exploring **real-world AI applications**
+- Building **practical AI/ML projects** from scratch
+- Experimenting with **deep learning models** using Python
+- Strengthening my **Data Science** foundation
+- Exploring **real-world AI applications**
 
 ---
 
-## ðŸ“« Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -153,8 +148,8 @@ me.say_hi()
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" />
 
-  *"The best way to predict the future is to create it."* ðŸš€
+  *"The best way to predict the future is to create it."*
 
-  **â­ Star my repos if you find them helpful!**
+  **Star my repos if you find them helpful!**
 
 </div>

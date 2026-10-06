@@ -1,5 +1,5 @@
 <!-- Capsule Render Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=Anuj%20Ozare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20BCA%20Student%20%7C%20Python%20Developer&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Anuj%20Ozare&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20BCA%20Student%20%7C%20Python%20Developer&descAlignY=60&descSize=17" width="100%" />
 
 <div align="center">
 
@@ -10,10 +10,6 @@
 
 <!-- Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=Anuj779&label=Profile+Views&color=58A6FF&style=flat-square" />
-&nbsp;
-<a href="https://github.com/Anuj779?tab=followers">
-  <img src="https://img.shields.io/github/followers/Anuj779?label=Followers&style=flat-square&color=58A6FF" />
-</a>
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-58A6FF?style=flat-square" />
 &nbsp;
@@ -159,22 +155,6 @@ me.say_hi()
 
 ---
 
-## Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0D1117&textColor=C9D1D9&borderColor=58A6FF&qColor=58A6FF&aColor=ffffff" alt="Dev Joke" />
-</div>
-
----
-
-## Quote of the Day
-
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Alan%20Kay" alt="Quote" />
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -200,7 +180,7 @@ me.say_hi()
 ---
 
 <!-- Capsule Render Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
   <i>"The best way to predict the future is to create it." — Alan Kay</i>

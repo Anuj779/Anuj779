@@ -182,8 +182,8 @@ me.say_hi()
 <!-- Capsule Render Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%" />
 
-<div align="center">
-  <i>"The best way to predict the future is to create it." — Alan Kay</i>
+<div Kaycenter">
+  <i></i>
   <br/><br/>
   <b>⭐ Star my repos if you find them helpful!</b>
 </div>
